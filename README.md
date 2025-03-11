@@ -1,3 +1,3 @@
 # whac-a-mole
 
-Whac-a-Mole game using Html, CSS and JavaScript
+Whac-a-Mole game using HTML, CSS and JavaScript.
